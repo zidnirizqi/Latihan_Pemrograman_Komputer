@@ -6,7 +6,7 @@ package serialisasi;
 import java.io.Serializable;
 /**
  *
- * @author sitik
+ * @author T490s
  */
 public class ProductItem implements Serializable{
     String nama;
