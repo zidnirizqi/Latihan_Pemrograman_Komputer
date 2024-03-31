@@ -8,7 +8,7 @@ import java.io.Serializable;
 import java.util.List;
 /**
  *
- * @author sitik
+ * @author T490s
  */
 public class Product implements Serializable{
     private String id;
